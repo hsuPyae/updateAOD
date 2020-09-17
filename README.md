@@ -36,3 +36,13 @@ MoG
 Original AOD
 # https://github.com/harshagarwal10/abandoned-object-detection?fbclid=IwAR0u5J_2dHEE01sz8h1C64_mimF1f0AkDWkg0PPudNX9kmeYfZ-CfMwFI9E
 
+
+===============================================
+
+Timer
+# start timer after human separated from obj
+# (or)
+# start timer when human is lost in the scene
+
+
+
