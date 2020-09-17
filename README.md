@@ -27,5 +27,5 @@ Label
 ===============================================
 
 Link
-https://github.com/rmnrajan/unattendedbaggage/blob/master/bg.jpg
-https://github.com/Jeff20/AbandonObject
+# https://github.com/rmnrajan/unattendedbaggage/blob/master/bg.jpg
+# https://github.com/Jeff20/AbandonObject
